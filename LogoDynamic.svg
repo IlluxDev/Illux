@@ -1,14 +1,15 @@
-<svg width="83" height="83" viewBox="0 0 83 83" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
     <style>
         path { 
-        	stroke: #FF6580; 
+        	stroke: #007636; 
         }
         
         @media (prefers-color-scheme: dark) {
             path { 
-            	stroke: #FEB2BF;
+            	stroke: #14FF94;
             }
         }
  	</style>
-    <path d="M78 54.9007V27.0993C78 19.1718 68.4928 15.1165 62.7709 20.6032L20.2291 61.3968C14.5072 66.8835 5 62.8282 5 54.9007V27.0993C5 19.1718 14.5072 15.1165 20.2291 20.6032L62.7709 61.3968C68.4928 66.8835 78 62.8282 78 54.9007Z" stroke-width="10"/>
+    
+    <path d="M20 23L14.7482 18.7985C10.8196 15.6557 5 18.4527 5 23.4837V46.5162C5 51.5473 10.8196 54.3443 14.7482 51.2015L55.2518 18.7985C59.1804 15.6557 65 18.4527 65 23.4837V46.5162C65 51.5473 59.1804 54.3443 55.2518 51.2015L50 47" stroke="#14FF94" stroke-width="9" stroke-linecap="round"/>
 </svg>
